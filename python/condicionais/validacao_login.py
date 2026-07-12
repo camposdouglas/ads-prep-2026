@@ -35,6 +35,6 @@ if usuario == "":
 elif senha == "":
     print("Senha inválida.")
 elif len(senha) < 8:
-    print("Senha precisa de no mínimo 8 caracteres")
+    print("Senha precisa de no mínimo 8 caracteres.")
 else:
     print("Login válido.")
