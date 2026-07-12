@@ -22,6 +22,7 @@ ads-prep-2026/
 │   └── metodologias/
 ├── python/
 ├── sql/
+├── study-log/
 └── projetos/
 ```
 

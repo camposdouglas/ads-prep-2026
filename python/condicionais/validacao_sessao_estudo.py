@@ -27,3 +27,16 @@
 # - print()
 #
 # Não use input(), funções, classes, listas, arquivos ou banco de dados.
+
+tecnologia = "git"
+duracao_minutos = 60
+conteudo = "Aprendeu-se comandos git introdutórios, como add, commit e push."
+
+if tecnologia == "":
+    print("Tecnologia ausente.")
+elif duracao_minutos <= 0:
+    print("Tempo insuficiente")
+elif conteudo == "":
+    print("Conteúdo ausente.")
+else:
+    print("Sessão de estudos registrada com sucesso.")

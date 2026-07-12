@@ -1,1 +1,1 @@
-print("ambiente Python funcionando")
+print("Hello, World!")
